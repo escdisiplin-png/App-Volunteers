@@ -1,7 +1,7 @@
 {
   "name": "Sistem Manajemen Volunteer",
   "short_name": "ESC Siantan",
-  "description": "Aplikasi Management Volunteers",
+  "description": "Church Managemen System",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
